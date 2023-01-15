@@ -4,6 +4,7 @@
     --font-family:'Montserrat', sans-serif;
     --bg-color: linear-gradient(90deg, rgba(66,82,152,1) 13%, rgba(0,255,248,1) 100%);
     --primary-color: #FFFFFF;
+    --secundary-color: linear-gradient(90deg, rgba(66,152,74,1) 13%, rgba(0,255,94,1) 100%);
 }
 
 body {
@@ -53,5 +54,12 @@ h3 {
     border-radius: 10px;
     margin-top: 20px;
     cursor: pointer;
+    transition: .2s;
+}
+
+.btn-jogar:hover {
+    background: var(--secundary-color);
+    color: var(--primary-color);
+    
 }
 
