@@ -1,13 +1,14 @@
 # Secret-Number
 A game with Web Speech API
 
+BR :brazil:
 ###
 
 <h1>Sobre</h1>
 
 ###
 
-<p>Adivinhe o Número é um projeto feito a partir de estudos sobre Web Speech API, na qual conciste em adivinhar um número secretro, 
+<p>Adivinhe o Número é um projeto feito a partir de estudos sobre Web Speech API, na qual consiste em adivinhar um número secretro, 
 aleatório gerado.</p>
 
 ###
@@ -22,3 +23,6 @@ aleatório gerado.</p>
  
  <p>Você deve adivinhar um número, caso você erre, você terá uma dica de quão próximo está do número. 
  Caso você acerte, será mostrado tela de vitória, e você poderá reiniciar o jogo clicando no botão "Jogar novamente".</p>
+
+
+US :us:
